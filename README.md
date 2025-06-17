@@ -10,7 +10,7 @@
   - [Awesome Imitation Learning](#Awesome-Imitation-Learning)
   - [Awesome Vision](#Awesome-Vision)
   - [Awesome Teleoperation](#Awesome-Teleoperation)
-  - [Awesome Control](#Awesome-Control)
+  - [Awesome Locomoation](#Awesome-Locomoation)
   - [Awesome Touch](#Awesome-Touch)
   - [Awesome Meta-Learning/Increamental Learniing/Continuous Learning](#Awesome-Meta-Learning/Increamental-Learniing/Continuous-Learning)
   - [Awesome Data](#Awesome-Data)
@@ -88,7 +88,7 @@
 | <br> [**OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning**](https://omni.human2humanoid.com/) <br> | CoRL | 2024-01-13 | [Data](https://cmu.app.box.com/s/kmayzq5ax2rxvwn97s0hzz0aq5vws9io)  |  |
 | <br> [**Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation**](https://human2humanoid.com/resources/H2O_paper.pdf) <br> | IROS | 2024-01-13 | [Github.io](https://human2humanoid.com/)  |  |
 
-## Awesome Control
+## Awesome Locomoation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds**](https://why618188.github.io/beamdojo/) <br> | RSS | 2025 |  |  |
@@ -103,6 +103,7 @@
 | <br> [**Learning Humanoid Standing-up Control across Diverse Postures**](https://taohuang13.github.io/humanoid-standingup.github.io/) <br> | RSS | 2025 | [Code](https://github.com/OpenRobotLab/HoST) | |
 | <br> [**Learning by cheating**](https://github.com/dotchen/LearningByCheating) <br> | CoRL  | 2019 | [Code](https://github.com/dotchen/LearningByCheating)  |  |
 | <br> [**Learning Quadrupedal Locomotion over Challenging Terrain**](https://leggedrobotics.github.io/rl-blindloco/) <br> | Sci. Robotics  | 2020 | |  |
+| <br> [**KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills**](https://kungfu-bot.github.io/) <br> | arXiv | 2025 | [Code](https://github.com/TeleHuman/PBHC) |  |
 
 ## Awesome Meta-Learning/Increamental Learniing/Continuous Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
