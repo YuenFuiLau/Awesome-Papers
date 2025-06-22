@@ -11,7 +11,7 @@
   - [Awesome Vision](#Awesome-Vision)
   - [Awesome Teleoperation](#Awesome-Teleoperation)
   - [Awesome Locomoation](#Awesome-Locomoation)
-  - [Awesome Touch](#Awesome-Touch)
+  - [Awesome Learning](#Awesome-Learning)
   - [Awesome Meta-Learning/Increamental Learniing/Continuous Learning](#Awesome-Meta-Learning/Increamental-Learniing/Continuous-Learning)
   - [Awesome Data](#Awesome-Data)
 
@@ -106,6 +106,12 @@
 | <br> [**Learning by cheating**](https://github.com/dotchen/LearningByCheating) <br> | CoRL  | 2019 | [Code](https://github.com/dotchen/LearningByCheating)  |  |
 | <br> [**Learning Quadrupedal Locomotion over Challenging Terrain**](https://leggedrobotics.github.io/rl-blindloco/) <br> | Sci. Robotics  | 2020 | |  |
 | <br> [**KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills**](https://kungfu-bot.github.io/) <br> | arXiv | 2025 | [Code](https://github.com/TeleHuman/PBHC) |  |
+
+## Awesome Learning
+|  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Rethinking Minimal Sufficient Representation in Contrastive Learning**](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Rethinking_Minimal_Sufficient_Representation_in_Contrastive_Learning_CVPR_2022_paper.pdf) <br> | CVPR | 2022 | [Code](https://github.com/Haoqing-Wang/InfoCL)  |  |
+| <br> [**Variational Information Distillation for Knowledge Transfer**](https://arxiv.org/pdf/1904.05835) <br> | CVPR | 2019 |  |  |
 
 ## Awesome Meta-Learning/Increamental Learniing/Continuous Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
