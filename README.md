@@ -52,6 +52,7 @@
 | <br> [**DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies**](https://dexwild.github.io/) <br> | RSS | 2025|  |  |
 | <br> [**Catch It! Learning to Catch in Flight with Mobile Dexterous Hands**](https://mobile-dex-catch.github.io/) <br> | ICRA | 2025 | [Code](https://github.com/hang0610/Catch_It) |  |
 | <br> [**Genie Centurion: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance**](https://arxiv.org/pdf/2505.18793) <br> | arXiv  | 2025 | |  |
+| <br> [**Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space**](https://zzk273.github.io/R2S2/) <br> | arXiv | 2025 | [Code](https://github.com/GalaxyGeneralRobotics/OpenWBT) |  |
 
 ## Awesome Imitation Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
