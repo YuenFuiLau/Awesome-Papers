@@ -78,6 +78,7 @@
 | <br> [**Probabilistic Representations for Video Contrastive Learning**](https://arxiv.org/abs/2204.03946) <br> | CVPR  | 2022 | [Code](https://github.com/mkirchhof/Probabilistic_Contrastive_Learning) |  |
 | <br> [**TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos**](https://yufu-wang.github.io/tram4d/) <br> | ECCV  | 2024 | [Code](https://github.com/yufu-wang/tram) |  |
 | <br> [**Capturing and Inferring Dense Full-Body Human-Scene Contact**](https://github.com/paulchhuang/bstro) <br> | CVPR  | 2022 | [Code](https://github.com/paulchhuang/bstro) |  |
+| <br> [**Capturing and Inferring Dense Full-Body Human-Scene Contact**](https://github.com/paulchhuang/bstro) <br> | CVPR  | 2022 | [Code](https://github.com/paulchhuang/bstro) |  |
 
 ## Awesome Teleoperation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
@@ -126,6 +127,7 @@
 | <br> [**One-step Diffusion with Distribution Matching Distillation**](https://tianweiy.github.io/dmd/) <br> | CVPR | 2024 | [Code](https://github.com/devrimcavusoglu/dmd)  |  |
 | <br> [**Improved Distribution Matching Distillation for Fast Image Synthesis**](https://tianweiy.github.io/dmd2/) <br> | NeurIPS | 2024 | [Code](https://github.com/tianweiy/DMD2)  |  |
 | <br> [**SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS**](https://arxiv.org/pdf/2011.13456) <br> | ICLR | 2021 | [Code](https://github.com/yang-song/score_sde)  |  |
+| <br> [**Image-to-Image Translation with Conditional Adversarial Networks**](https://phillipi.github.io/pix2pix/) <br> | CVPR | 2017 | [Code](https://github.com/phillipi/pix2pix)  |  |
 
 ## Awesome Data
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
