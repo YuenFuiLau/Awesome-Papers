@@ -69,6 +69,7 @@
 | <br> [**MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting**](https://research.nvidia.com/labs/par/maskedmimic/) <br> | SIGGRAPH Asia 2024 | 2024-09 | [Code](https://github.com/NVlabs/ProtoMotions) |  |
 | <br> [**Learning Physically Simulated Tennis Skills from Broadcast Videos**](https://research.nvidia.com/labs/toronto-ai/vid2player3d/) <br> | SIGGRAPH | 2023 | [Code](https://github.com/nv-tlabs/vid2player3d) |  |
 | <br> [**Perpetual Humanoid Control for Real-time Simulated Avatars**](https://zhengyiluo.github.io/PHC/) <br> | ICCV  | 2023 | [Code](https://github.com/ZhengyiLuo/PHC) |  |
+| <br> [**Universal Humanoid Motion Representations for Physics-Based Control**](https://www.zhengyiluo.com/PULSE-Site/) <br> | ICLR  | 2024 | [Code](https://github.com/ZhengyiLuo/PULSE) |  |
 | <br> [**Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking**](https://mimicking-bench.github.io/) <br> | arXiv  | 2024 | |  |
 
 ## Awesome Vision
