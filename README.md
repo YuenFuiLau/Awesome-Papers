@@ -54,6 +54,8 @@
 | <br> [**Genie Centurion: Accelerating Scalable Real-World Robot Training with Human Rewind-and-Refine Guidance**](https://arxiv.org/pdf/2505.18793) <br> | arXiv  | 2025 | |  |
 | <br> [**Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space**](https://zzk273.github.io/R2S2/) <br> | arXiv | 2025 | [Code](https://github.com/GalaxyGeneralRobotics/OpenWBT) |  |
 | <br> [**LAPA: Latent Action Pretraining from Videos**](https://latentactionpretraining.github.io/) <br> | ICLR | 2025 | [Code](https://github.com/LatentActionPretraining/LAPA) |  |
+| <br> [**Humanoid Whole-Body Control with Latent Vision-Language Instruction**](https://ember-lab-berkeley.github.io/LeVERB-Website/) <br> | arXiv | 2025 | |  |
+
 
 ## Awesome Imitation Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
