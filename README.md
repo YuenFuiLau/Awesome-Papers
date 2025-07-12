@@ -117,7 +117,7 @@
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Rethinking Minimal Sufficient Representation in Contrastive Learning**](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Rethinking_Minimal_Sufficient_Representation_in_Contrastive_Learning_CVPR_2022_paper.pdf) <br> | CVPR | 2022 | [Code](https://github.com/Haoqing-Wang/InfoCL)  |  |
 | <br> [**Variational Information Distillation for Knowledge Transfer**](https://arxiv.org/pdf/1904.05835) <br> | CVPR | 2019 |  |  |
-| <br> [**Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning**](https://arxiv.org/pdf/1907.04490) <br> | ICLR | 2025 | [Code](https://github.com/milutter/deep_lagrangian_networks/tree/main) |  |
+| <br> [**Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning**](https://arxiv.org/pdf/1907.04490) <br> | ICLR | 2019 | [Code](https://github.com/milutter/deep_lagrangian_networks/tree/main) |  |
 
 ## Awesome Meta-Learning/Increamental Learniing/Continuous Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
