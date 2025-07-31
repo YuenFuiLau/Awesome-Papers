@@ -30,6 +30,7 @@
 | <br> [**A Survey of Meta-Reinforcement Learning**](https://arxiv.org/abs/2301.08028v3) <br> | arVix  | 2024 |  |  |
 | <br> [**Teleoperation of Humanoid Robots: A Survey**](https://arxiv.org/pdf/2301.04317) <br> | arXiv | 2023-01-11 | [Github.io](https://humanoid-teleoperation.github.io/)  |  |
 | <br> [**LLM Post-Training: A Deep Dive into Reasoning**](https://arxiv.org/abs/2502.21321) <br> | arVix  | 2025 |  |  |
+| <br> [**A Survey of Behavior Foundation Model: Next-Generation Whole-Body Control System of Humanoid Robots**](https://arxiv.org/abs/2506.20487) <br> | arVix  | 2025 |  |  |
 
 ## Awesome Robot Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
