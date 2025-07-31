@@ -56,6 +56,8 @@
 | <br> [**Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space**](https://zzk273.github.io/R2S2/) <br> | arXiv | 2025 | [Code](https://github.com/GalaxyGeneralRobotics/OpenWBT) |  |
 | <br> [**LAPA: Latent Action Pretraining from Videos**](https://latentactionpretraining.github.io/) <br> | ICLR | 2025 | [Code](https://github.com/LatentActionPretraining/LAPA) |  |
 | <br> [**Humanoid Whole-Body Control with Latent Vision-Language Instruction**](https://ember-lab-berkeley.github.io/LeVERB-Website/) <br> | arXiv | 2025 | |  |
+| <br> [**Is Your Imitation Learning Policy Better than Mine? Policy Comparison with Near-Optimal Stopping**](https://tri-ml.github.io/step/) <br> | RSS | 2025 | [Code](https://github.com/TRI-ML/sequentialized_barnard_tests) |  |
+| <br> [**Can We Detect Failures Without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies**](https://cxu-tri.github.io/FAIL-Detect-Website/) <br> | RSS | 2025 | [Code](https://github.com/CXU-TRI/FAIL-Detect) |  |
 
 
 ## Awesome Imitation Learning
