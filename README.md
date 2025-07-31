@@ -104,6 +104,7 @@
 | <br> [**Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer**](https://arxiv.org/pdf/2404.05695) <br> | arXiv | 2024-05-18 | [Code](https://github.com/roboterax/humanoid-gym) |  |
 | <br> [**Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing**](https://lecar-lab.github.io/dial-mpc/) <br> | arXiv | 2024-05-18 | [Code](https://github.com/LeCAR-Lab/dial-mpc) |  |
 | <br> [**Expressive Whole-Body Control for Humanoid Robots**](https://expressive-humanoid.github.io/) <br> | RSS | 2024-03-06 | [Code](https://github.com/chengxuxin/expressive-humanoid/tree/main) |  |
+| <br> [**Learning Agile and Dynamic Motor Skills for Legged Robots**](https://arxiv.org/pdf/1901.08652) <br> | Sci. Robotics  | 2019 | |  |
 | <br> [**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**](https://metamotivo.metademolab.com/) <br> | arXiv  | 2024-12-12 | [Code](https://github.com/facebookresearch/metamotivo) |  |
 | <br> [**ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills**](https://agile.human2humanoid.com/) <br> | RSS | 2025-02 | [Code](https://github.com/LeCAR-Lab/ASAP) |  |
 | <br> [**HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**](https://hover-versatile-humanoid.github.io/) <br> | ICRA | 2024-06-13 | [Code](https://github.com/NVlabs/HOVER/)   |  |
@@ -112,6 +113,8 @@
 | <br> [**Learning by cheating**](https://github.com/dotchen/LearningByCheating) <br> | CoRL  | 2019 | [Code](https://github.com/dotchen/LearningByCheating)  |  |
 | <br> [**Learning Quadrupedal Locomotion over Challenging Terrain**](https://leggedrobotics.github.io/rl-blindloco/) <br> | Sci. Robotics  | 2020 | |  |
 | <br> [**KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills**](https://kungfu-bot.github.io/) <br> | arXiv | 2025 | [Code](https://github.com/TeleHuman/PBHC) |  |
+| <br> [**Bridging Adaptivity and Safety: Learning Agile Collision-Free Locomotion Across Varied Physics**](https://adaptive-safe-locomotion.github.io/) <br> | L4DC | 2025 | [Code](https://github.com/z-taylcr7/BAS_official/) |  |
+| <br> [**Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion**](https://arxiv.org/pdf/2202.05481) <br> | RA-L | 2022 | |  |
 
 ## Awesome Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
