@@ -105,6 +105,7 @@
 | <br> [**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**](https://www.roboticsproceedings.org/rss20/p058.pdf) <br> | RSS | 2024-07 |  |  |
 | <br> [**Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer**](https://arxiv.org/pdf/2404.05695) <br> | arXiv | 2024-05-18 | [Code](https://github.com/roboterax/humanoid-gym) |  |
 | <br> [**Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing**](https://lecar-lab.github.io/dial-mpc/) <br> | arXiv | 2024-05-18 | [Code](https://github.com/LeCAR-Lab/dial-mpc) |  |
+| <br> [**Toward Understanding Key Estimation in Learning Robust Humanoid Locomotion**](https://arxiv.org/abs/2403.05868) <br> | IROS  | 2024 |  |  |
 | <br> [**Expressive Whole-Body Control for Humanoid Robots**](https://expressive-humanoid.github.io/) <br> | RSS | 2024-03-06 | [Code](https://github.com/chengxuxin/expressive-humanoid/tree/main) |  |
 | <br> [**Learning Agile and Dynamic Motor Skills for Legged Robots**](https://arxiv.org/pdf/1901.08652) <br> | Sci. Robotics  | 2019 | |  |
 | <br> [**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**](https://metamotivo.metademolab.com/) <br> | arXiv  | 2024-12-12 | [Code](https://github.com/facebookresearch/metamotivo) |  |
