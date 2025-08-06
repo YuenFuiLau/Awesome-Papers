@@ -117,6 +117,7 @@
 | <br> [**KungfuBot: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills**](https://kungfu-bot.github.io/) <br> | arXiv | 2025 | [Code](https://github.com/TeleHuman/PBHC) |  |
 | <br> [**Bridging Adaptivity and Safety: Learning Agile Collision-Free Locomotion Across Varied Physics**](https://adaptive-safe-locomotion.github.io/) <br> | L4DC | 2025 | [Code](https://github.com/z-taylcr7/BAS_official/) |  |
 | <br> [**Concurrent Training of a Control Policy and a State Estimator for Dynamic and Robust Legged Locomotion**](https://arxiv.org/pdf/2202.05481) <br> | RA-L | 2022 | |  |
+| <br> [**OCCAM: Online Continuous Controller Adaptation with Meta-Learned Models**](https://hersh500.github.io/occam/) <br> | CoRL | 2024 | [Code](https://github.com/hersh500/occam) |  |
 
 ## Awesome Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
