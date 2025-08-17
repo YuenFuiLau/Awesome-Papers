@@ -44,6 +44,7 @@
 | <br> [**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**](https://cogact.github.io/) <br> | arXiv  | 2024-11 | [Code](https://github.com/microsoft/CogACT/tree/main) |  |
 | <br> [**Visual Whole-Body Control for Legged Loco-Manipulation**](https://wholebody-b1.github.io/) <br> | CoRL | 2024-11-02 | [Code](https://github.com/Ericonaldo/visual_wholebody)  |  |
 | <br> [**OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**](https://ok-robot.github.io/) <br> | CoRL | 2024-02-29 | [Code](https://github.com/ok-robot/ok-robot)  |  |
+| <br> [**BeyondMimic: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion**](https://beyondmimic.github.io/) <br> | arXiv | 2025 | [Code](https://github.com/HybridRobotics/whole_body_tracking) |  |
 | <br> [**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**](https://ut-austin-rpl.github.io/OKAMI/) <br> | CoRL | 2024-09 |  |  |
 | <br> [**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**](https://gao-jiawei.com/Research/CooHOI/) <br> | NeurIPS | 2024-10 | [Code](https://gao-jiawei.com/Research/CooHOI/) |  |
 | <br> [**ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters**](https://heyuanyao-pku.github.io/Control-VAE/) <br> | SIGGRAPH Asia  | 2022| [Code](https://github.com/heyuanYao-pku/Control-VAE) |  |
