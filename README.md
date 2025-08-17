@@ -48,6 +48,7 @@
 | <br> [**OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation**](https://ut-austin-rpl.github.io/OKAMI/) <br> | CoRL | 2024-09 |  |  |
 | <br> [**CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics**](https://gao-jiawei.com/Research/CooHOI/) <br> | NeurIPS | 2024-10 | [Code](https://gao-jiawei.com/Research/CooHOI/) |  |
 | <br> [**ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters**](https://heyuanyao-pku.github.io/Control-VAE/) <br> | SIGGRAPH Asia  | 2022| [Code](https://github.com/heyuanYao-pku/Control-VAE) |  |
+| <br> [**CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks**](https://humanoid-clone.github.io/) <br> | arXiv | 2025 | [Code](https://github.com/humanoid-clone/CLONE/) |  |
 | <br> [**PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction**](https://wyhuai.github.io/physhoi-page/) <br> | arXiv  | 2024-10 | [Code](https://github.com/wyhuai/PhysHOI/tree/main) |  |
 | <br> [**SkillMimic: Learning Reusable Basketball Skills from Demonstrations**](https://ingrid789.github.io/SkillMimic/) <br> | CVPR  | 2024-08 | [Code](https://github.com/wyhuai/SkillMimic) |  |
 | <br> [**Humanoid Policy ~ Human Policy**](https://human-as-robot.github.io/) <br> | arVix  | 2025| [Code](https://github.com/RogerQi/human-policy) |  |
