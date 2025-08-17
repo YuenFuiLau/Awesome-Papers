@@ -60,6 +60,7 @@
 | <br> [**Humanoid Whole-Body Control with Latent Vision-Language Instruction**](https://ember-lab-berkeley.github.io/LeVERB-Website/) <br> | arXiv | 2025 | |  |
 | <br> [**Is Your Imitation Learning Policy Better than Mine? Policy Comparison with Near-Optimal Stopping**](https://tri-ml.github.io/step/) <br> | RSS | 2025 | [Code](https://github.com/TRI-ML/sequentialized_barnard_tests) |  |
 | <br> [**Can We Detect Failures Without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies**](https://cxu-tri.github.io/FAIL-Detect-Website/) <br> | RSS | 2025 | [Code](https://github.com/CXU-TRI/FAIL-Detect) |  |
+| <br> [**AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning**](https://arxiv.org/abs/2505.23708) <br> | arXiv  | 2025 | |  |
 
 
 ## Awesome Imitation Learning
