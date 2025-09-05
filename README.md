@@ -35,6 +35,7 @@
 ## Awesome Robot Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**HugWBC: A Unified and General Humanoid Whole-Body Controller for Versatile Locomotion**](https://hugwbc.github.io/) <br> | RSS  | 2025 | [Code](https://github.com/apexrl/HugWBC) |  |
 | <br> [**VideoMimic Visual imitation enables contextual humanoid control**](https://www.videomimic.net/) <br> | arXiv  | 2025 | [Code](https://github.com/hongsukchoi/VideoMimic) |  |
 | <br> [**AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems**](https://agibot-world.com/) <br> | arVix  | 2025 | [Code](https://github.com/OpenDriveLab/AgiBot-World) |  |
 | <br> [**π0: A Vision-Language-Action Flow Model for General Robot Control**](https://www.physicalintelligence.company/blog/pi0) <br> | arVix  | 2024 | [Code](https://github.com/allenzren/open-pi-zero) |  |
