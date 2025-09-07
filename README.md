@@ -88,7 +88,7 @@
 | <br> [**Probabilistic Representations for Video Contrastive Learning**](https://arxiv.org/abs/2204.03946) <br> | CVPR  | 2022 | [Code](https://github.com/mkirchhof/Probabilistic_Contrastive_Learning) |  |
 | <br> [**TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos**](https://yufu-wang.github.io/tram4d/) <br> | ECCV  | 2024 | [Code](https://github.com/yufu-wang/tram) |  |
 | <br> [**Capturing and Inferring Dense Full-Body Human-Scene Contact**](https://github.com/paulchhuang/bstro) <br> | CVPR  | 2022 | [Code](https://github.com/paulchhuang/bstro) |  |
-| <br> [**Capturing and Inferring Dense Full-Body Human-Scene Contact**](https://github.com/paulchhuang/bstro) <br> | CVPR  | 2022 | [Code](https://github.com/paulchhuang/bstro) |  |
+| <br> [**World-Grounded Human Motion Recovery via Gravity-View Coordinates**](https://zju3dv.github.io/gvhmr/) <br> | SIGGRAPH Asia  | 2024 | [Code](https://github.com/zju3dv/GVHMR) |  |
 
 ## Awesome Teleoperation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
