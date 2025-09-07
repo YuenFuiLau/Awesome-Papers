@@ -12,7 +12,6 @@
   - [Awesome Teleoperation](#Awesome-Teleoperation)
   - [Awesome Locomoation](#Awesome-Locomoation)
   - [Awesome Learning](#Awesome-Learning)
-  - [Awesome Meta-Learning/Increamental Learniing/Continuous Learning](#Awesome-Meta-Learning/Increamental-Learniing/Continuous-Learning)
   - [Awesome Data](#Awesome-Data)
 
 
@@ -132,12 +131,9 @@
 | <br> [**Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables**](https://arxiv.org/abs/1903.08254) <br> | ICML | 2019 | [Code](https://github.com/katerakelly/oyster) |  |
 | <br> [**Deep Lagrangian Networks: Using Physics as Model Prior for Deep Learning**](https://arxiv.org/pdf/1907.04490) <br> | ICLR | 2019 | [Code](https://github.com/milutter/deep_lagrangian_networks/tree/main) |  |
 | <br> [**Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**](https://arxiv.org/abs/1703.03400) <br> | ICML | 2017 | [Code](https://github.com/cbfinn/maml) |  |
-
-## Awesome Meta-Learning/Increamental Learniing/Continuous Learning
-|  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
 | <br> [**Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Online_Task-Free_Continual_Generative_and_Discriminative_Learning_via_Dynamic_Cluster_CVPR_2024_paper.pdf) <br> | CVPR | 2025 | |  |
 | <br> [**ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy**](https://cccedric.github.io/conrft/) <br> | RSS  | 2025 | [Code](https://github.com/cccedric/conrft) |  |
+
 
 ## Awesome Generation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
