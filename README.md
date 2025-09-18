@@ -107,6 +107,7 @@
 ## Awesome Locomoation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Learning Humanoid Arm Motion via Centroidal Momentum Regularized Multi-Agent Reinforcement Learning**](https://hojae-io.github.io/LearningHumanoidArmMotion-RAL2025-Website/) <br> | RA-L | 2025 | [Code](https://github.com/hojae-io/LearningHumanoidArmMotion-RAL2025-Code) |  |
 | <br> [**BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds**](https://why618188.github.io/beamdojo/) <br> | RSS | 2025 |  |  |
 | <br> [**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**](https://www.roboticsproceedings.org/rss20/p058.pdf) <br> | RSS | 2024-07 |  |  |
 | <br> [**Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer**](https://arxiv.org/pdf/2404.05695) <br> | arXiv | 2024-05-18 | [Code](https://github.com/roboterax/humanoid-gym) |  |
