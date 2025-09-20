@@ -64,7 +64,7 @@
 | <br> [**Exploration and Anti-Exploration with Distributional Random Network Distillation**](https://arxiv.org/abs/2401.09750v4) <br> | arXiv  | 2024 | |  |
 | <br> [**Exploration by Random Network Distillation**](https://arxiv.org/abs/2401.09750v4) <br> | arXiv  | 2018 | |  |
 | <br> [**Track Any Motions under Any Disturbances**](https://zzk273.github.io/Any2Track/) <br> | arXiv  | 2025 | [Code](https://github.com/GalaxyGeneralRobotics/OpenTrack) |  |
-| <br> [**Behavior Foundation Model for Humanoid Robots**](bfm4humanoid.github.io) <br> | arXiv  | 2025 |  |  |
+| <br> [**Behavior Foundation Model for Humanoid Robots**](https://bfm4humanoid.github.io/) <br> | arXiv  | 2025 |  |  |
 
 
 
