@@ -34,6 +34,7 @@
 ## Awesome Robot Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**Implicit Kinodynamic Motion Retargeting for Human-to-humanoid Imitation Learning**](https://www.arxiv.org/abs/2509.15443) <br> | arXiv  | 2025 |  |  |
 | <br> [**DreamControl: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion**](https://www.arxiv.org/abs/2509.14353) <br> | arXiv  | 2025 |  |  |
 | <br> [**HugWBC: A Unified and General Humanoid Whole-Body Controller for Versatile Locomotion**](https://hugwbc.github.io/) <br> | RSS  | 2025 | [Code](https://github.com/apexrl/HugWBC) |  |
 | <br> [**VideoMimic Visual imitation enables contextual humanoid control**](https://www.videomimic.net/) <br> | arXiv  | 2025 | [Code](https://github.com/hongsukchoi/VideoMimic) |  |
