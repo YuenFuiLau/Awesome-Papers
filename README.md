@@ -165,6 +165,7 @@
 | <br> [**SMPLOlympics: Sports Environments for Physically Simulated Humanoids**](https://smplolympics.github.io/SMPLOlympics-Site/) <br> | arXiv | 2024 | [Code](https://github.com/SMPLOlympics/SMPLOlympics)  |  |
 | <br> [**Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware**](https://real2render2real.com/) <br> | arXiv | 2025 | [Code](https://github.com/uynitsuj/real2render2real)  |  |
 | <br> [**HUMOTO: A 4D Dataset of Mocap Human Object Interactions**](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://jiaxin-lu.github.io/humoto/&ved=2ahUKEwjG87nnwveNAxX-sFYBHbNdNkMQFnoECAoQAQ&usg=AOvVaw1UkZyiL_RJGQ8sOjn2xxvC) <br> | arXiv | 2025 | |  |
+| <br> [**Bandai-Namco-Research-Motiondataset**](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset/tree/master) <br> |  |  | |  |
 
 ---
 # Awesome Reference Source
