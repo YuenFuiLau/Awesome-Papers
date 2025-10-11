@@ -72,6 +72,7 @@
 ## Awesome Imitation Learning
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| <br> [**A Scalable Approach to Control Diverse Behaviors for Physically Simulated Characters**](https://ai.meta.com/research/publications/a-scalable-approach-to-control-diverse-behaviors-for-physically-simulated-characters/) <br> | TOG | 2020 |  [Code](https://github.com/facebookresearch/ScaDiver) |  |
 | <br> [**GROVE: A Generalized Reward for Learning Open-Vocabulary Physical Skill**](https://jiemingcui.github.io/grove/) <br> | CVPR  | 2025 | [Code](https://github.com/jiemingcui/GROVE-pytorch) |  |
 | <br> [**DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills**](https://xbpeng.github.io/projects/DeepMimic/index.html) <br> | ACM SIGGRAPH | 2024-05-22 | [Code](https://github.com/xbpeng/DeepMimic/tree/master)  |  |
 | <br> [**AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control**](https://xbpeng.github.io/projects/AMP/index.html) <br> | ACM SIGGRAPH | 2024-05-22 | [Code1](https://github.com/Alescontrela/AMP_for_hardware) [Code2](https://github.com/nv-tlabs/ASE/tree/main)   |  |
