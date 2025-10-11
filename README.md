@@ -87,6 +87,8 @@
 | <br> [**Perpetual Humanoid Control for Real-time Simulated Avatars**](https://zhengyiluo.github.io/PHC/) <br> | ICCV  | 2023 | [Code](https://github.com/ZhengyiLuo/PHC) |  |
 | <br> [**Universal Humanoid Motion Representations for Physics-Based Control**](https://www.zhengyiluo.com/PULSE-Site/) <br> | ICLR  | 2024 | [Code](https://github.com/ZhengyiLuo/PULSE) |  |
 | <br> [**Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking**](https://mimicking-bench.github.io/) <br> | arXiv  | 2024 | |  |
+| <br> [**Strategy and Skill Learning for Physics-based Table Tennis Animation**](https://jiashunwang.github.io/PhysicsPingPong/) <br> | ACM SIGGRAPH | 2024 |  |  |
+| <br> [**Strategy and Skill Learning for Physics-based Table Tennis Animation**](https://research.facebook.com/publications/control-strategies-for-physically-simulated-characters-performing-two-player-competitive-sports/) <br> | TOG | 2021 |  |  |
 
 ## Awesome Vision
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
