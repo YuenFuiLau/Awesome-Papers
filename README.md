@@ -89,6 +89,7 @@
 | <br> [**Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking**](https://mimicking-bench.github.io/) <br> | arXiv  | 2024 | |  |
 | <br> [**Strategy and Skill Learning for Physics-based Table Tennis Animation**](https://jiashunwang.github.io/PhysicsPingPong/) <br> | ACM SIGGRAPH | 2024 |  |  |
 | <br> [**Control Strategies for Physically Simulated Characters Performing Two-player Competitive Sports**](https://research.facebook.com/publications/control-strategies-for-physically-simulated-characters-performing-two-player-competitive-sports/) <br> | TOG | 2021 |  |  |
+| <br> [**Physics-Based Motion Imitation with Adversarial Differential Discriminators**](https://add-moo.github.io/) <br> | SIGGRAPH | 2025 | [Code](https://github.com/xbpeng/MimicKit) |  |
 
 ## Awesome Vision
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
