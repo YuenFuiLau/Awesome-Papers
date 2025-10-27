@@ -65,8 +65,10 @@
 | <br> [**AMOR: Adaptive Character Control through Multi-Objective Reinforcement Learning**](https://arxiv.org/abs/2505.23708) <br> | arXiv  | 2025 | |  |
 | <br> [**Exploration and Anti-Exploration with Distributional Random Network Distillation**](https://arxiv.org/abs/2401.09750v4) <br> | arXiv  | 2024 | |  |
 | <br> [**Exploration by Random Network Distillation**](https://arxiv.org/abs/2401.09750v4) <br> | arXiv  | 2018 | |  |
+| <br> [**From Language to Locomotion: Retargeting-free Humanoid Control via Motion Latent Guidance**](https://arxiv.org/abs/2510.14952v1) <br> | arXiv  | 2025 | |  |
 | <br> [**Track Any Motions under Any Disturbances**](https://zzk273.github.io/Any2Track/) <br> | arXiv  | 2025 | [Code](https://github.com/GalaxyGeneralRobotics/OpenTrack) |  |
 | <br> [**Behavior Foundation Model for Humanoid Robots**](https://bfm4humanoid.github.io/) <br> | arXiv  | 2025 |  |  |
+| <br> [**GAUSSGYM: AN OPEN-SOURCE REAL-TO-SIM FRAMEWORK FOR LEARNING LOCOMOTION FROM PIXELS**](https://escontrela.me/gauss_gym/) <br> | arXiv  | 2025 | [Code](https://github.com/escontra/gauss_gym) |  |
 
 
 ## Awesome Imitation Learning
