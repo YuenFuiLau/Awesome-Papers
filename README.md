@@ -69,6 +69,7 @@
 | <br> [**Track Any Motions under Any Disturbances**](https://zzk273.github.io/Any2Track/) <br> | arXiv  | 2025 | [Code](https://github.com/GalaxyGeneralRobotics/OpenTrack) |  |
 | <br> [**Behavior Foundation Model for Humanoid Robots**](https://bfm4humanoid.github.io/) <br> | arXiv  | 2025 |  |  |
 | <br> [**GAUSSGYM: AN OPEN-SOURCE REAL-TO-SIM FRAMEWORK FOR LEARNING LOCOMOTION FROM PIXELS**](https://escontrela.me/gauss_gym/) <br> | arXiv  | 2025 | [Code](https://github.com/escontra/gauss_gym) |  |
+| <br> [**BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning**](https://arxiv.org/pdf/2511.04131) <br> | arXiv  | 2025 |  |  |
 
 
 ## Awesome Imitation Learning
