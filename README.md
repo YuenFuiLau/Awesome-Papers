@@ -87,6 +87,7 @@
 | <br> [**Synthesizing Physical Character-Scene Interactions**](https://research.nvidia.com/publication/2023-08_synthesizing-physical-character-scene-interactions) <br> | SIGGRAPH 2023 | 2023-02 |  |  |
 | <br> [**TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization**](https://liangpan99.github.io/TokenHSI/) <br> | CVPR  | 2025 | [Code](https://github.com/liangpan99/TokenHSI) |  |
 | <br> [**MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting**](https://research.nvidia.com/labs/par/maskedmimic/) <br> | SIGGRAPH Asia 2024 | 2024-09 | [Code](https://github.com/NVlabs/ProtoMotions) |  |
+| <br> [**TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis**](https://threedle.github.io/TEDi/) <br> | SIGGRAPH | 2024 | [Code](https://github.com/threedle/TEDi) |  |
 | <br> [**Learning Physically Simulated Tennis Skills from Broadcast Videos**](https://research.nvidia.com/labs/toronto-ai/vid2player3d/) <br> | SIGGRAPH | 2023 | [Code](https://github.com/nv-tlabs/vid2player3d) |  |
 | <br> [**Perpetual Humanoid Control for Real-time Simulated Avatars**](https://zhengyiluo.github.io/PHC/) <br> | ICCV  | 2023 | [Code](https://github.com/ZhengyiLuo/PHC) |  |
 | <br> [**Universal Humanoid Motion Representations for Physics-Based Control**](https://www.zhengyiluo.com/PULSE-Site/) <br> | ICLR  | 2024 | [Code](https://github.com/ZhengyiLuo/PULSE) |  |
