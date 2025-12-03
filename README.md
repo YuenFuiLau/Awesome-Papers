@@ -96,6 +96,7 @@
 | <br> [**Control Strategies for Physically Simulated Characters Performing Two-player Competitive Sports**](https://research.facebook.com/publications/control-strategies-for-physically-simulated-characters-performing-two-player-competitive-sports/) <br> | TOG | 2021 |  |  |
 | <br> [**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**](https://metamotivo.metademolab.com/) <br> | ICLR | 2025 | [Code](https://github.com/facebookresearch/metamotivo) |  |
 | <br> [**Physics-Based Motion Imitation with Adversarial Differential Discriminators**](https://add-moo.github.io/) <br> | SIGGRAPH | 2025 | [Code](https://github.com/xbpeng/MimicKit) |  |
+| <br> [**HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid**](https://proceedings.neurips.cc/paper_files/paper/2024/file/215aeb07b5996c969c0123c3c6ee8f54-Paper-Conference.pdf) <br> | NeurIPS  | 2024 | [Code](https://github.com/AllenXuuu/HumanVLA) |  |
 
 ## Awesome Vision
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
