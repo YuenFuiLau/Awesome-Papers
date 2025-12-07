@@ -97,6 +97,8 @@
 | <br> [**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**](https://metamotivo.metademolab.com/) <br> | ICLR | 2025 | [Code](https://github.com/facebookresearch/metamotivo) |  |
 | <br> [**Physics-Based Motion Imitation with Adversarial Differential Discriminators**](https://add-moo.github.io/) <br> | SIGGRAPH | 2025 | [Code](https://github.com/xbpeng/MimicKit) |  |
 | <br> [**HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid**](https://proceedings.neurips.cc/paper_files/paper/2024/file/215aeb07b5996c969c0123c3c6ee8f54-Paper-Conference.pdf) <br> | NeurIPS  | 2024 | [Code](https://github.com/AllenXuuu/HumanVLA) |  |
+| <br> [**Taming diffusion probabilistic models for character control**](https://heyuanyao-pku.github.io/Control-VAE/) <br> | SIGGRAPH Asia | 2022 | [Code](https://github.com/heyuanYao-pku/Control-VAE) |  |
+| <br> [**Character Controllers Using Motion VAEs**](https://arxiv.org/pdf/2103.14274) <br> | SIGGRAPH | 2020 | [Code](https://github.com/electronicarts/character-motion-vaes/tree/main?tab=readme-ov-file) |  |
 
 ## Awesome Vision
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
