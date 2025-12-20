@@ -162,6 +162,7 @@
 | <br> [**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**](https://awfuact.github.io/zerohsi/) <br> | arXiv | 2025 |  |  |
 | <br> [**One-step Diffusion with Distribution Matching Distillation**](https://tianweiy.github.io/dmd/) <br> | CVPR | 2024 | [Code](https://github.com/devrimcavusoglu/dmd)  |  |
 | <br> [**Improved Distribution Matching Distillation for Fast Image Synthesis**](https://tianweiy.github.io/dmd2/) <br> | NeurIPS | 2024 | [Code](https://github.com/tianweiy/DMD2)  |  |
+| <br> [**Diffuse-CLoC: Guided Diffusion for Physics-based Character Look-ahead Control**](https://diffusecloc.github.io/website/) <br> | SIGGRAPH | 2025 |  |  |
 | <br> [**SCORE-BASED GENERATIVE MODELING THROUGH STOCHASTIC DIFFERENTIAL EQUATIONS**](https://arxiv.org/pdf/2011.13456) <br> | ICLR | 2021 | [Code](https://github.com/yang-song/score_sde)  |  |
 | <br> [**Image-to-Image Translation with Conditional Adversarial Networks**](https://phillipi.github.io/pix2pix/) <br> | CVPR | 2017 | [Code](https://github.com/phillipi/pix2pix)  |  |
 
