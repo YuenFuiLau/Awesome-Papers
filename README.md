@@ -154,7 +154,7 @@
 | <br> [**Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks**](https://arxiv.org/abs/1703.03400) <br> | ICML | 2017 | [Code](https://github.com/cbfinn/maml) |  |
 | <br> [**Online Task-Free Continual Generative and Discriminative Learning via Dynamic Cluster Memory**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ye_Online_Task-Free_Continual_Generative_and_Discriminative_Learning_via_Dynamic_Cluster_CVPR_2024_paper.pdf) <br> | CVPR | 2025 | |  |
 | <br> [**ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy**](https://cccedric.github.io/conrft/) <br> | RSS  | 2025 | [Code](https://github.com/cccedric/conrft) |  |
-| <br> [**mHC: Manifold-Constrained Hyper-Connections**](https://cccedric.github.io/conrft/) <br> | arXiv  | 2025 | |  |
+| <br> [**mHC: Manifold-Constrained Hyper-Connections**](https://arxiv.org/pdf/2512.24880) <br> | arXiv  | 2025 | |  |
 
 ## Awesome Generation
 |  Title  |   Venue  |   Date   |   Code / Info   |   Demo   |
